@@ -1,0 +1,145 @@
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\SL_API.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\SL_API.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\SL_API.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\csc.exe
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\csc.exe.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\csc.rsp
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\csi.exe
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\csi.rsp
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\System.AppContext.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\vbc.exe
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\vbc.exe.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\vbc.rsp
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Antlr3.Runtime.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\BL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\EntityFramework.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\ML.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Newtonsoft.Json.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Helpers.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Http.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Mvc.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Optimization.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Razor.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\WebGrease.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\DL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\BL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\BL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\ML.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\ML.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\EntityFramework.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Newtonsoft.Json.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Helpers.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Http.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Mvc.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Optimization.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.Razor.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Antlr3.Runtime.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\DL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\bin\DL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.csproj.CopyComplete
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\SL_API.dll.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\SL_API.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\SL_API.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\csc.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\csc.exe.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\csc.rsp
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\csi.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\csi.rsp
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\System.AppContext.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\vbc.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\vbc.exe.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\vbc.rsp
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Antlr3.Runtime.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\BL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\EntityFramework.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\EntityFramework.SqlServer.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\ML.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Newtonsoft.Json.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Net.Http.Formatting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Helpers.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Http.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Http.WebHost.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Mvc.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Optimization.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Razor.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\WebGrease.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\DL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\BL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\ML.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\EntityFramework.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\EntityFramework.SqlServer.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Newtonsoft.Json.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Net.Http.Formatting.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Helpers.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Http.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Http.WebHost.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Mvc.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Optimization.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.Razor.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Antlr3.Runtime.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\bin\DL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL_API\obj\Debug\SL_API.pdb

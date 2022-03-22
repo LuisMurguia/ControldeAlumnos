@@ -1,0 +1,21 @@
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\ML.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\ML.dll
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\ML.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.dll
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.xml
+C:\Users\Luis\source\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis\source\repos\ControlAlumnos\ML\obj\Debug\ML.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\ControlAlumnos\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\ControlAlumnos\ML\obj\Debug\ML.csproj.CopyComplete
+C:\Users\Luis\source\repos\ControlAlumnos\ML\obj\Debug\ML.dll
+C:\Users\Luis\source\repos\ControlAlumnos\ML\obj\Debug\ML.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\ML.dll.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\ML.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\ML.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\obj\Debug\ML.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\ML\obj\Debug\ML.pdb

@@ -1,0 +1,141 @@
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\PL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\PL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\PL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\csc.exe
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\csc.exe.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\csc.rsp
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\csi.exe
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\csi.rsp
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\System.AppContext.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\vbc.exe
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\vbc.exe.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\vbc.rsp
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Antlr3.Runtime.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\BL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\EntityFramework.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\ML.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Newtonsoft.Json.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Helpers.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Mvc.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Optimization.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Razor.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.WebPages.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\WebGrease.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\DL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\BL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\BL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\ML.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\ML.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\EntityFramework.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Newtonsoft.Json.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Helpers.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Mvc.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Optimization.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.Razor.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.WebPages.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Antlr3.Runtime.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\DL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\PL\bin\DL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\ControlAlumnos\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\ControlAlumnos\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\Luis\source\repos\ControlAlumnos\PL\obj\Debug\PL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\PL\obj\Debug\PL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\PL.dll.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\PL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\PL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\csc.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\csc.exe.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\csc.rsp
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\csi.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\csi.rsp
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\System.AppContext.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\vbc.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\vbc.exe.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\vbc.rsp
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Antlr3.Runtime.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\BL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\EntityFramework.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\EntityFramework.SqlServer.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\ML.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Newtonsoft.Json.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Net.Http.Formatting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Helpers.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Mvc.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Optimization.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Razor.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.WebPages.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\WebGrease.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\DL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\BL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\ML.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\EntityFramework.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\EntityFramework.SqlServer.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Newtonsoft.Json.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Net.Http.Formatting.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Helpers.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Mvc.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Optimization.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Razor.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.WebPages.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Antlr3.Runtime.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\DL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\obj\Debug\PL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\obj\Debug\PL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Http.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Http.WebHost.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Http.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\PL\bin\System.Web.Http.WebHost.xml

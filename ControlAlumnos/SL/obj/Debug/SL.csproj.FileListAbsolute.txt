@@ -1,0 +1,49 @@
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\SL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\SL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\SL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\BL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\EntityFramework.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\ML.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\Newtonsoft.Json.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\DL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\BL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\BL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\ML.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\ML.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\EntityFramework.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\Newtonsoft.Json.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\DL.pdb
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\DL.dll.config
+C:\Users\Luis\source\repos\ControlAlumnos\SL\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis\source\repos\ControlAlumnos\SL\obj\Debug\SL.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\ControlAlumnos\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\ControlAlumnos\SL\obj\Debug\SL.csproj.CopyComplete
+C:\Users\Luis\source\repos\ControlAlumnos\SL\obj\Debug\SL.dll
+C:\Users\Luis\source\repos\ControlAlumnos\SL\obj\Debug\SL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\SL.dll.config
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\SL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\SL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\BL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\EntityFramework.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\EntityFramework.SqlServer.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\ML.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\Newtonsoft.Json.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\DL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\System.Net.Http.Formatting.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\BL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\ML.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\EntityFramework.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\EntityFramework.SqlServer.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\Newtonsoft.Json.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\DL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\System.Net.Http.Formatting.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\obj\Debug\SL.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\obj\Debug\SL.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\obj\Debug\SL.pdb
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\System.Web.Http.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\System.Web.Http.WebHost.dll
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\System.Web.Http.xml
+C:\Users\ALIEN 14\Downloads\repos\ControlAlumnos\SL\bin\System.Web.Http.WebHost.xml

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ControlAlumnosModelStoreContainer" CdmEntityContainer="ControlAlumnosEntities">
+    <FunctionImportMapping FunctionImportName="AlumnoAdd" FunctionName="ControlAlumnosModel.Store.AlumnoAdd" />
+    <FunctionImportMapping FunctionImportName="AlumnoDelete" FunctionName="ControlAlumnosModel.Store.AlumnoDelete" />
+    <FunctionImportMapping FunctionImportName="AlumnoGetAll" FunctionName="ControlAlumnosModel.Store.AlumnoGetAll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAlumnosModel.AlumnoGetAll_Result">
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="AlumnoGetById" FunctionName="ControlAlumnosModel.Store.AlumnoGetById">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAlumnosModel.AlumnoGetById_Result">
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="AlumnoUpdate" FunctionName="ControlAlumnosModel.Store.AlumnoUpdate" />
+    <FunctionImportMapping FunctionImportName="MateriaAdd" FunctionName="ControlAlumnosModel.Store.MateriaAdd" />
+    <FunctionImportMapping FunctionImportName="MateriaDelete" FunctionName="ControlAlumnosModel.Store.MateriaDelete" />
+    <FunctionImportMapping FunctionImportName="MateriaGetAll" FunctionName="ControlAlumnosModel.Store.MateriaGetAll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAlumnosModel.MateriaGetAll_Result">
+          <ScalarProperty Name="IdMateria" ColumnName="IdMateria" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="MateriaGetById" FunctionName="ControlAlumnosModel.Store.MateriaGetById">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAlumnosModel.MateriaGetById_Result">
+          <ScalarProperty Name="IdMateria" ColumnName="IdMateria" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="MateriaUpdate" FunctionName="ControlAlumnosModel.Store.MateriaUpdate" />
+    <EntitySetMapping Name="Alumnoes">
+      <EntityTypeMapping TypeName="ControlAlumnosModel.Alumno">
+        <MappingFragment StoreEntitySet="Alumno">
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AlumnoMaterias">
+      <EntityTypeMapping TypeName="ControlAlumnosModel.AlumnoMateria">
+        <MappingFragment StoreEntitySet="AlumnoMateria">
+          <ScalarProperty Name="IdMateria" ColumnName="IdMateria" />
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+          <ScalarProperty Name="IdAlumnoMateria" ColumnName="IdAlumnoMateria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Materias">
+      <EntityTypeMapping TypeName="ControlAlumnosModel.Materia">
+        <MappingFragment StoreEntitySet="Materia">
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdMateria" ColumnName="IdMateria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AlumnoMateriaAdd" FunctionName="ControlAlumnosModel.Store.AlumnoMateriaAdd" />
+    <FunctionImportMapping FunctionImportName="AlumnoMateriaDelete" FunctionName="ControlAlumnosModel.Store.AlumnoMateriaDelete" />
+    <FunctionImportMapping FunctionImportName="AlumnoMateriaGetById" FunctionName="ControlAlumnosModel.Store.AlumnoMateriaGetById">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAlumnosModel.AlumnoMateriaGetById_Result">
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdMateria" ColumnName="IdMateria" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="MateriasAlumnoGetById" FunctionName="ControlAlumnosModel.Store.MateriasAlumnoGetById">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ControlAlumnosModel.MateriasAlumnoGetById_Result">
+          <ScalarProperty Name="IdAlumnoMateria" ColumnName="IdAlumnoMateria" />
+          <ScalarProperty Name="NombreMateria" ColumnName="NombreMateria" />
+          <ScalarProperty Name="IdMateria" ColumnName="IdMateria" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="NombreAlumno" ColumnName="NombreAlumno" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="IdAlumno" ColumnName="IdAlumno" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

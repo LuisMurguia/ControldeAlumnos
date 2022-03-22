@@ -1,0 +1,83 @@
+﻿@model ML.AlumnoMateria
+@{ ViewBag.Title = "AlumnoGetAll";
+                Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h2>Materias Disponibles</h2>
+<div class="row">
+    <div class="col-md-12">
+        <p style="text-align:justify">Seleccione mediante el Checkbox la materia que le quiera asignar al Alumno, presionando el botón "Guardar" para finalizar con la asginacion o presionando "Regresar para volver a las materias asginadas del alumno"</p>
+    </div>
+</div>
+<br />
+<br />
+
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+
+@using (Html.BeginForm("MateriasNoAsignadas", "AlumnoMateria", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+<div class="row">
+
+
+    <div class=" col-md-4">
+        @Html.LabelFor(model => model.Alumno.IdAlumno, new { @class = "hidden" })
+        @Html.TextBoxFor(model => model.Alumno.IdAlumno, new { @class = "form-control hidden", @readonly = "readonly", @placeholder = "IdAlumno" })
+        @Html.ValidationMessageFor(model => model.Alumno.IdAlumno)
+    </div>
+
+    <div class=" col-md-4">
+        @Html.LabelFor(model => model.Alumno.Nombre)
+        @Html.TextBoxFor(model => model.Alumno.Nombre, new { @class = "form-control", @readonly = "readonly", @placeholder = "Nombre" })
+        @Html.ValidationMessageFor(model => model.Alumno.Nombre)
+    </div>
+
+    <div class="col-md-4">
+        @Html.LabelFor(model => model.Alumno.ApellidoPaterno)
+        @Html.TextBoxFor(model => model.Alumno.ApellidoPaterno, new { @class = "form-control", @readonly = "readonly", @placeholder = "Apellido Paterno" })
+        @Html.ValidationMessageFor(model => model.Alumno.ApellidoPaterno)
+    </div>
+
+    <div class="col-md-4">
+        @Html.LabelFor(model => model.Alumno.ApellidoMaterno)
+        @Html.TextBoxFor(model => model.Alumno.ApellidoMaterno, new { @class = "form-control", @readonly = "readonly", @placeholder = "Apellido Materno" })
+        @Html.ValidationMessageFor(model => model.Alumno.ApellidoMaterno)
+    </div>
+
+</div>
+                <br />
+                                <br />
+
+                                                <table class="table table-bordered  table-responsive">
+                                                    <thead>
+                                                        <tr>
+                                                            <td class="text-center"><strong>Seleccionar</strong></td>
+                                                            <td class="text-center"><strong>Nombre</strong></td>
+                                                            <td class="text-center"><strong>Costo</strong></td>
+
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        @foreach (ML.AlumnoMateria alumno in Model.AlumnoMaterias)
+                                                        {
+                                        <tr>
+                                            <td class="text-center hidden">
+                                                <center> @alumno.Materia.IdMateria</center>
+                                            </td>
+                                            <td class="text-center" width="150px">
+                                                <input type="checkbox" value="@alumno.Materia.IdMateria" name="AlumnoMaterias" }>
+                                            </td>
+                                            <td><center>@alumno.Materia.Nombre</center></td>
+                                            <td><center>@alumno.Materia.Costo</center></td>
+                                        </tr>}
+                                                    </tbody>
+                                                </table>
+
+                                                                <div class="form-group">
+                                                                    <div class="col-md-3">
+                                                                        <input class="btn btn-success" type="submit" value="Guardar" />
+                                                                        <a class="btn btn-danger" href="@Url.Action("MateriasAsignadas", "AlumnoMateria", new { IdAlumno = Model.Alumno.IdAlumno })">Regresar</a>
+                                                                    </div>
+                                                                </div>}

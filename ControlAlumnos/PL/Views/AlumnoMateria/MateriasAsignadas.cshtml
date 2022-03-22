@@ -1,0 +1,68 @@
+﻿@model ML.AlumnoMateria
+@{ ViewBag.Title = "AlumnoGetAll";
+                Layout = "~/Views/Shared/_Layout.cshtml"; }
+<h2>Materias Asignadas</h2>
+<br />
+<div class="row">
+    <div class="col-md-12">
+        <p style="text-align:justify">Seleccione el boton "+" para asignarle una nueva materia al alumno o "-" para desasignar una materia</p>
+    </div>
+</div>
+<br />
+<div class="container">
+    <div class="row">
+        <div style="float:right; margin-bottom:1rem;">
+            <div style="float:right; margin-bottom:1rem;">
+
+                <a class="btn btn-success " href="@Url.Action("MateriasNoAsignadas", "AlumnoMateria", new { IdAlumno = Model.Alumno.IdAlumno })">+</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class=" col-md-3">
+                @Html.LabelFor(model => model.Alumno.Nombre)
+                @Html.TextBoxFor(model => model.Alumno.Nombre, new { @class = "form-control ", @readonly = "readonly", @placeholder = "Nombre" })
+                @Html.ValidationMessageFor(model => model.Alumno.Nombre)
+            </div>
+
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Alumno.ApellidoPaterno)
+                @Html.TextBoxFor(model => model.Alumno.ApellidoPaterno, new { @class = "form-control", @readonly = "readonly", @placeholder = "Apellido Paterno" })
+                @Html.ValidationMessageFor(model => model.Alumno.ApellidoPaterno)
+            </div>
+
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Alumno.ApellidoMaterno)
+                @Html.TextBoxFor(model => model.Alumno.ApellidoMaterno, new { @class = "form-control", @readonly = "readonly", @placeholder = "Apellido Materno" })
+                @Html.ValidationMessageFor(model => model.Alumno.ApellidoMaterno)
+            </div>
+        </div>
+
+        <br />
+        <br />
+
+        <table class="table table-bordered  table-responsive">
+            <thead>
+                <tr>
+                    <td class="text-center"><strong>Eliminar</strong></td>
+                    <td class="text-center"><strong>Nombre</strong></td>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (ML.AlumnoMateria alumno in Model.AlumnoMaterias)
+                {
+    <tr>
+        <td width="150px"><center><a class="btn btn-danger glyphicon glyphicon-minus" href="@Url.Action("Delete", "AlumnoMateria", new { IdAlumnoMateria = alumno.IdAlumnoMateria, IdAlumno= alumno.Alumno.IdAlumno})" onclick="return confirm('Estas seguro que deseas eliminar este registro?');" ;></a></center></td>
+        <td><center>@alumno.Materia.Nombre</center></td>
+
+    </tr>}
+            </tbody>
+        </table>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                @Html.ActionLink("Regresar", "AlumnoGetAll", "AlumnoMateria", htmlAttributes: new { @class = "btn btn-danger" })
+            </div>
+        </div>
+    </div>
+</div>

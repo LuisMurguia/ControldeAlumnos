@@ -1,0 +1,44 @@
+﻿@model ML.Materia
+@{ ViewBag.Title = "GetAll";
+                Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h2>Materias</h2>
+<div class="row">
+    <div class="col-md-12">
+        <p style="text-align:justify">Selecciona el Icono "Verde" si deseas agregar una nueva Materia, el Icono "Amarillo" si deseas modificarla o el Icono "Rojo" si deseas eliminar la Materia existente</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div style="float:right; margin-bottom:1rem;">
+            <div style="float:right; margin-bottom:1rem;">
+                @Html.ActionLink("+", "Form", "Materia", htmlAttributes: new { @class = "btn btn-success" })
+            </div>
+
+        </div>
+        <table class="table table-bordered table-responsive">
+            <thead>
+                <tr>
+                    <td class="text-center" style="font-family:Verdana;"><strong>Editar</strong></td>
+                    <td class="text-center" style="font-family:Verdana;"><strong>Nombre</strong></td>
+                    <td class="text-center" style="font-family:Verdana;"><strong>Costo</strong></td>
+                    <td class="text-center" style="font-family:Verdana;"><strong>Eliminar</strong></td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (ML.Materia materia in Model.Materias)
+                {
+    <tr>
+        <td class="hidden">@materia.IdMateria</td>
+        <td><center><a class="btn btn-warning glyphicon glyphicon-edit" href="@Url.Action("Form", "Materia", new { IdMateria = materia.IdMateria })"></a></center></td>
+        <td><center>@materia.Nombre</center></td>
+        <td><center>@materia.Costo</center></td>
+        <td><center><a class="btn btn-danger glyphicon glyphicon-trash" href="@Url.Action("Delete", "Materia", new { IdMateria= materia.IdMateria})" onclick="return confirm('Estas seguro que deseas eliminar este registro?');" ;></a></center></td>
+
+    </tr>}
+            </tbody>
+        </table>
+    </div>
+</div>
+
